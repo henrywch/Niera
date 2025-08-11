@@ -1,0 +1,9 @@
+[submodule "whisper"]
+	path = whisper
+	url = https://github.com/henrywch/whisper.git
+[submodule "Qwen3"]
+	path = Qwen3
+	url = git@github.com:henrywch/Qwen3.git
+[submodule "kokoro"]
+	path = kokoro
+	url = git@github.com:henrywch/kokoro.git
