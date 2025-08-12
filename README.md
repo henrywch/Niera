@@ -4,6 +4,7 @@ Try to reproduce a simple Speech Assistant.
 ## STT
 
 - [openai/whisper](https://github.com/henrywch/whisper "Forked")
+- [openai/faster-whisper]((https://github.com/henrywch/faster-whisper "Forked")
 
 ## LLM
 
