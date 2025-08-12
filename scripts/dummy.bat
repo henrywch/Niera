@@ -1,0 +1,1 @@
+ffmpeg -f dshow -ar 44100 -ac 1 -i audio="@device_cm_{33D9A762-90C8-11D0-BD43-00A0C911CE86}\wave_{C6296591-0952-4EAF-BC2B-332B50B45D8F}" .\results\dummy\output.mp3

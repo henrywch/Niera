@@ -1,0 +1,1 @@
+python whisper_streaming/whisper_online_server.py --host localhost --port 43001 --warmup-file  --min-chunk-size 1 --model small.en --model_cache_dir .\models\whisper --lan auto --task transcribe --backend fast-whisper --vac --vac-chunk-size 1 -l DEBUG
