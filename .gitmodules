@@ -4,3 +4,6 @@
 [submodule "kokoro"]
 	path = kokoro
 	url = git@github.com:henrywch/kokoro.git
+[submodule "whisper_streaming"]
+	path = whisper_streaming
+	url = git@github.com:henrywch/whisper_streaming.git
