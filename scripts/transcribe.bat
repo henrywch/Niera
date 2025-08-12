@@ -8,4 +8,4 @@ set HOUR=%TIME:~0,2%
 set MINUTE=%TIME:~3,2%
 set SECOND=%TIME:~6,2%
 
-python .\whisper_streaming\whisper_online.py .\results\dummy\output.mp3 --min-chunk-size 1 --model small.en --model_cache_dir .\models\whisper --lan auto --task transcribe --backend faster-whisper --vac --vac-chunk-size 1 -l DEBUG > ".\results\%YEAR%-%MONTH%-%DAY%_%HOUR%-%MINUTE%-%SECOND%.txt"
+python .\whisper_streaming\whisper_online.py .\results\dummy\output_1.mp3 --min-chunk-size 1 --model small.en --model_cache_dir .\models\whisper --lan auto --task transcribe --backend faster-whisper --vac --vac-chunk-size 1 -l DEBUG > ".\results\REC_%YEAR%-%MONTH%-%DAY%_%HOUR%-%MINUTE%-%SECOND%.txt"

@@ -1,0 +1,1 @@
+Downloading: "https://github.com/snakers4/silero-vad/zipball/master" to E:\IT\Projects\Python\Niera\whisper\models\torch\hub\master.zip

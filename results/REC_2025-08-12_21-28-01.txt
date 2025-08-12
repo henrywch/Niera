@@ -1,0 +1,8 @@
+Downloading: "https://github.com/snakers4/silero-vad/zipball/master" to E:\IT\Projects\Python\Niera\whisper\models\torch\hub\master.zip
+4173.3482 1980 2260  Okay,
+5194.4308 2360 4040  let's see this is a
+6216.6529 4040 4520  chest
+10265.2555 7004 7584  I don't know if
+11253.2592 7604 8124  you can
+12314.6753 8124 9564  translate I mean
+13328.5367 9584 11164  transcribe. Oh my
